@@ -20,7 +20,7 @@ Contributions to this project are welcome! Fork this repository, make your chang
 
 Reach out to us via email or connect on GitHub to discuss innovative IoT endeavors and potential collaborations.
 
-- Email: [your.email@example.com](mailto:your.email@example.com)
-- GitHub: [YourGitHubUsername](https://github.com/YourGitHubUsername)
+- Email: [your.email@example.com](sanshlangeh@outlook.com)
+- GitHub: [YourGitHubUsername](Sansh72)
 
 Join us in exploring the endless possibilities of IoT motor control! 🔧⚙️
